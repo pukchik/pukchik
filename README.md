@@ -13,21 +13,6 @@
 🚀 **My interests**: backend 
 🎯 **I aim** to create cool schedule
 
-
----
-
-<div align="center">
-
-### :fire: My Stats :
-
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pukchik&theme=dark&background=000000" alt="GitHub Streak Stats" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pukchik&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</a>
-
 </div>
 
 
