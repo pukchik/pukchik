@@ -21,7 +21,7 @@
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Pukchik&theme=dark&background=000000" alt="GitHub Streak Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=pukchik&theme=dark&background=000000" alt="GitHub Streak Stats" />
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
