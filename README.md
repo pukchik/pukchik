@@ -14,5 +14,6 @@
 🎯 **I aim** to create cool schedule
 
 </div>
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pukchik)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
