@@ -14,6 +14,7 @@
 🎯 **I aim** to create cool schedule
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pukchik&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pukchik)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
