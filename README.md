@@ -11,12 +11,12 @@
 🚀 **Мои интересы:** backend  
 🎯 **Моя цель:** создать крутое расписание
 
-</div>
-
-<div align="center">
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pukchik&layout=donut-vertical&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+<br>
+
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pukchik&theme=tokyonight&locale=ru)](https://wakatime.com/@pukchik)
+
 </div>
