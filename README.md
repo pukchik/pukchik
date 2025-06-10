@@ -9,11 +9,8 @@
 # 👋 Hi, I’m Ilya!  
 👨‍💻 **Учусь в IT-колледже Sirius** | **Специальность: Программист**  
 🚀 **Мои интересы:** backend  
-🎯 **Моя цель:** создать крутое расписание
+🎯 **Моя цель:** Выжить :(
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pukchik&layout=donut-vertical&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
